@@ -1,0 +1,1 @@
+copy test to test000.txt to run the programs
